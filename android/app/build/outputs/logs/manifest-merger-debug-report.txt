@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\04cb9f193e75c9631606d9c569f3b557\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-linear-gradient] C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e9f0ff49ea936b796a9d35baf9df4ce7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5d36ab49b5094018b2b87ddbe0630baf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\787504a4e689d4ee34a6bb7efc32a0c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f61a0ba0d4589b1ebac0900c5a0089a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4528cdbdb7395a940bc9baf199ca06c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dadf77f297dda57af2d7ecf7057a2387\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\9ade9cc042f8868767f41d8b082b11d3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\58c13567539055847206e0b7a229fe3a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ded1e7a84022e6d0ce0b233ffe979fe3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e2c0aea0d8e95bf6526a99b83ce26723\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\460c76273dd7c89b001cda67285105c1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0339c70db4e0ceae4e199d34b615f460\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\ec5abc0c5e7f4ca04baa0213c19d882e\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\52f4fb1ddcbce71456aef59187a00a28\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4e33bddec8ad9087341c189b26335246\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c38917c3a188a1774fad150b23c55132\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c5ae33f9ad7b0d5363a85f25a9d7e86a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7efc6691683d5f760e209b78c5120a2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0339c70db4e0ceae4e199d34b615f460\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0339c70db4e0ceae4e199d34b615f460\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\ec5abc0c5e7f4ca04baa0213c19d882e\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\ec5abc0c5e7f4ca04baa0213c19d882e\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.myapp.MainActivity
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\c3aa5e830abfdcc5ace1fb1c6256c61b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\04cb9f193e75c9631606d9c569f3b557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\04cb9f193e75c9631606d9c569f3b557\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e9f0ff49ea936b796a9d35baf9df4ce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e9f0ff49ea936b796a9d35baf9df4ce7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5d36ab49b5094018b2b87ddbe0630baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5d36ab49b5094018b2b87ddbe0630baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\787504a4e689d4ee34a6bb7efc32a0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\787504a4e689d4ee34a6bb7efc32a0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f61a0ba0d4589b1ebac0900c5a0089a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f61a0ba0d4589b1ebac0900c5a0089a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4528cdbdb7395a940bc9baf199ca06c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4528cdbdb7395a940bc9baf199ca06c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dadf77f297dda57af2d7ecf7057a2387\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dadf77f297dda57af2d7ecf7057a2387\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\9ade9cc042f8868767f41d8b082b11d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\9ade9cc042f8868767f41d8b082b11d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\58c13567539055847206e0b7a229fe3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\58c13567539055847206e0b7a229fe3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ded1e7a84022e6d0ce0b233ffe979fe3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ded1e7a84022e6d0ce0b233ffe979fe3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e2c0aea0d8e95bf6526a99b83ce26723\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e2c0aea0d8e95bf6526a99b83ce26723\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\460c76273dd7c89b001cda67285105c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\460c76273dd7c89b001cda67285105c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0339c70db4e0ceae4e199d34b615f460\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0339c70db4e0ceae4e199d34b615f460\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\52f4fb1ddcbce71456aef59187a00a28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\52f4fb1ddcbce71456aef59187a00a28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4e33bddec8ad9087341c189b26335246\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4e33bddec8ad9087341c189b26335246\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c38917c3a188a1774fad150b23c55132\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c38917c3a188a1774fad150b23c55132\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c5ae33f9ad7b0d5363a85f25a9d7e86a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c5ae33f9ad7b0d5363a85f25a9d7e86a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7efc6691683d5f760e209b78c5120a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\tiago.fcamara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7efc6691683d5f760e209b78c5120a2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Projetos_Soutot\Superdigital\super-cartoes\myapp\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
