@@ -7,7 +7,6 @@ Simple project example.
 - [x] Storybook
 - [x] React Navigation
 - [x] Styled Components
-- [x] React Context API
 - [x] Environment handler (.env)
 - [x] Prettier
 - [x] TSLint
